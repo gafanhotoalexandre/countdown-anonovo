@@ -24,3 +24,15 @@
 	justify-content: center;
 	gap: 2rem;
 }
+
+@media (max-width: 640px) {
+	.container {
+		margin: 0 1rem;
+		padding: 2rem 1rem;
+	}
+
+	.countdown-container {
+		height: 8rem;
+		gap: .5rem;
+	}
+}

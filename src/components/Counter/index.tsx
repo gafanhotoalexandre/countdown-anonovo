@@ -1,3 +1,5 @@
+import './Counter.css'
+
 interface CounterProps {
 	name: string;
 	number: number;

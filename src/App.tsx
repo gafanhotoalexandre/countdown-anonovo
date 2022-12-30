@@ -13,11 +13,11 @@ export default function App() {
         <section className="countdown-container">
           <Counter
 						name="Dias"
-						number={365}
+						number={3}
 					/>
 					<Counter
 						name="Horas"
-						number={3}
+						number={4}
 					/>
           <Counter
 						name="Minutos"
