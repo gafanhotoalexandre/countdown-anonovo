@@ -33,4 +33,7 @@
 		min-width: 3rem;
 		padding: .8rem;
 	}
+	.counter-text {
+		font-size: .9rem;
+	}
 }
