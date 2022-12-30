@@ -2,7 +2,7 @@ import './Counter.css'
 
 interface CounterProps {
 	name: string;
-	number: number;
+	number: string;
 }
 
 export function Counter({ name, number }: CounterProps) {
